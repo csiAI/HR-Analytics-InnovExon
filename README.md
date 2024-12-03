@@ -1,16 +1,15 @@
 # HR Analytics Dashboard | InnovExon
 
-HR Analytics Dashboard | InnovExon
-Project Background
+# Project Background
 InnovExon is a leading IT consulting company specializing in cutting-edge solutions for clients worldwide. To remain competitive in a fast-evolving industry, the Human Resources (HR) department sought to analyze key workforce metrics, including employee trends, attrition, and satisfaction. The goal of this project is to leverage data insights to improve employee retention, foster diversity, and enhance workplace satisfaction.
 
 The key areas of focus include:
 
-Attrition Trends: Understanding the drivers behind employee departures.
-Demographics: Analyzing employee age, gender, and diversity to inform inclusivity strategies.
-Departmental Performance: Evaluating workforce distribution across departments and locations.
-Employee Satisfaction: Monitoring satisfaction trends to identify potential retention risks.
-An interactive Power BI dashboard can be found here. (Update with link if applicable)
+- Attrition Trends: Understanding the drivers behind employee departures.
+- Demographics: Analyzing employee age, gender, and diversity to inform inclusivity strategies.
+- Departmental Performance: Evaluating workforce distribution across departments and locations.
+- Employee Satisfaction: Monitoring satisfaction trends to identify potential retention risks.
+- An interactive Power BI dashboard can be found here. (Update with link if applicable)
 
 Dataset Overview & Initial Checks
 The InnovExon dataset incorporates employee records across several dimensions:
