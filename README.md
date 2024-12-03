@@ -18,6 +18,9 @@ The InnovExon dataset incorporates employee records across several dimensions:
 - Demographics: Includes data on age, gender, and ethnicity.
 - Performance Metrics: Attrition rates, employee satisfaction, and hiring trends are analyzed.
 - Geographic Locations: Employees are distributed across key states, such as California (CA), Illinois (IL), and New York (NY).
+
+  ![data model](https://github.com/user-attachments/assets/7c4a3bb7-92f1-445c-b872-521f22243440)
+
   
 # Executive Summary
 
@@ -25,6 +28,9 @@ Overview:
 
 - Attrition rates vary significantly across demographics.
 - Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
+
+  ![HR DASHBOARD](https://github.com/user-attachments/assets/67d2bcfc-ea4e-47a3-8c97-46c41ca8515e)
+
 
 Attrition Trends:
 
