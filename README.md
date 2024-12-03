@@ -25,7 +25,7 @@ The InnovExon dataset incorporates employee records across several dimensions:
   
 # Executive Summary
 
-Overview of Findings 2012-2022:
+**Overview of Findings 2012-2022:**
 
 - Attrition: High at 16.1%, especially for employees with <2 years.
 - Satisfaction: Declining across all metrics since 2014.
