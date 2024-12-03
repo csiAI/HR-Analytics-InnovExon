@@ -20,28 +20,43 @@ The InnovExon dataset incorporates employee records across several dimensions:
 - Geographic Locations: Employees are distributed across key states, such as California (CA), Illinois (IL), and New York (NY).
   
 # Executive Summary
-Attrition rates vary significantly across demographics.
-Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
-Executive Summary
-1. Attrition Trends
-General Attrition: The overall attrition rate fluctuates, peaking at 20.6% in certain demographic groups.
-Years at Company: Attrition is highest among employees in their first year (42.7%), emphasizing onboarding challenges. It decreases significantly for employees with longer tenures.
-Age Groups: Employees aged 20-29 show the highest attrition rates, while those over 50 years old exhibit near-zero attrition.
-2. Demographics and Diversity
-Gender Representation:
-Males dominate the 20-29 age group (402 employees), while females are more strongly represented in senior age brackets.
-Non-binary employees have the smallest representation but exhibit no attrition in the observed period.
-Ethnic Disparities in Salary:
-White employees have the highest average salaries, while other ethnic groups (e.g., Asian or African American) cluster in lower salary ranges. Further equity analysis is recommended.
-3. Hiring Trends
-The highest hiring occurred in 2015, primarily within the 20-29 age group, but attrition in this cohort remains high.
-Minimal hiring is observed in recent years, potentially indicating a mature workforce or slowed recruitment efforts.
-4. Employee Satisfaction
-Satisfaction levels for Environment consistently outperform other categories but have declined from 4.0 (2014) to 3.4 (2022).
-Work-Life Balance satisfaction is the lowest-rated category and has decreased over the years, highlighting a potential driver of attrition.
-5. Department and State Breakdown
-Technology remains the largest department, with most employees based in California (CA). Attrition rates are higher in smaller departments such as Sales and HR.
-Employees in Illinois (IL) and New York (NY) show higher variability in satisfaction and retention.
+
+Overview
+
+- Attrition rates vary significantly across demographics.
+- Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
+
+Attrition Trends
+
+- General Attrition: The overall attrition rate fluctuates, peaking at 20.6% in certain demographic groups.
+- Years at Company: Attrition is highest among employees in their first year (42.7%), emphasizing onboarding challenges. It decreases significantly for employees with longer tenures.
+- Age Groups: Employees aged 20-29 show the highest attrition rates, while those over 50 years old exhibit near-zero attrition.
+  
+Demographics and Diversity
+
+- Gender Representation:
+- Males dominate the 20-29 age group (402 employees), while females are more strongly represented in senior age brackets.
+- Non-binary employees have the smallest representation but exhibit no attrition in the observed period.
+  
+Ethnic Disparities in Salary
+
+- White employees have the highest average salaries, while other ethnic groups (e.g., Asian or African American) cluster in lower salary ranges. Further equity analysis is recommended.
+  
+Hiring Trends
+
+- The highest hiring occurred in 2015, primarily within the 20-29 age group, but attrition in this cohort remains high.
+- Minimal hiring is observed in recent years, potentially indicating a mature workforce or slowed recruitment efforts.
+
+Employee Satisfaction
+
+- Satisfaction levels for Environment consistently outperform other categories but have declined from 4.0 (2014) to 3.4 (2022).
+- Work-Life Balance satisfaction is the lowest-rated category and has decreased over the years, highlighting a potential driver of attrition.
+  
+Department and State Breakdown
+
+- Technology remains the largest department, with most employees based in California (CA). Attrition rates are higher in smaller departments such as Sales and HR.
+- Employees in Illinois (IL) and New York (NY) show higher variability in satisfaction and retention.
+  
 Key Insights and Recommendations
 1. Onboarding Improvements
 The first-year attrition rate of 42.7% is concerning. Introduce structured onboarding programs, mentorship opportunities, and early engagement initiatives to improve retention in this critical period.
@@ -59,6 +74,8 @@ Technology has the highest number of employees but also significant attrition. I
 Support smaller departments (e.g., Sales and HR) with additional resources to mitigate the higher relative attrition rates.
 6. Enhance Diversity and Inclusivity
 Expand hiring efforts to increase representation in underrepresented demographics, particularly non-binary employees and ethnic minorities in higher-paying roles.
+
 Conclusion
-This analysis highlights key trends and areas of concern within InnovExon's workforce. With tailored strategies focusing on onboarding, diversity, and work-life balance, the company can improve retention and satisfaction while fostering a more inclusive workplace. By addressing disparities in compensation and providing support for high-turnover demographics, InnovExon can solidify its position as an employer of choice.
+
+- This analysis highlights key trends and areas of concern within InnovExon's workforce. With tailored strategies focusing on onboarding, diversity, and work-life balance, the company can improve retention and satisfaction while fostering a more inclusive workplace. By addressing disparities in compensation and providing support for high-turnover demographics, InnovExon can solidify its position as an employer of choice.
 
