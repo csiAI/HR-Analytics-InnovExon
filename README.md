@@ -85,7 +85,7 @@ Support smaller departments (e.g., Sales and HR) with additional resources to mi
 6. Enhance Diversity and Inclusivity
 Expand hiring efforts to increase representation in underrepresented demographics, particularly non-binary employees and ethnic minorities in higher-paying roles.
 
-**Conclusion**
+**Conclusion:**
 
 - This analysis highlights key trends and areas of concern within InnovExon's workforce. With tailored strategies focusing on onboarding, diversity, and work-life balance, the company can improve retention and satisfaction while fostering a more inclusive workplace. By addressing disparities in compensation and providing support for high-turnover demographics, InnovExon can solidify its position as an employer of choice.
 
