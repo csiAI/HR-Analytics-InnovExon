@@ -15,8 +15,11 @@ The key areas of focus include:
 The InnovExon dataset incorporates employee records across several dimensions:
 
 Time Period: Data spans from 2012 to 2022.
+
 Demographics: Includes data on age, gender, and ethnicity.
+
 Performance Metrics: Attrition rates, employee satisfaction, and hiring trends are analyzed.
+
 Geographic Locations: Employees are distributed across key states, such as California (CA), Illinois (IL), and New York (NY).
 Initial observations reveal:
 
