@@ -28,7 +28,7 @@ Overview:
 
 - Attrition rates vary significantly across demographics.
 - Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
-- An interactive PowerBI dashboard can be found [here](https://github.com/csiAI/HR-Analytics---InnovExon/raw/main/HR_Project.pbix)
+- An interactive PowerBI dashboard can be found [here](HR Project.pbix)
 
 
 
