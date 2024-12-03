@@ -25,10 +25,13 @@ The InnovExon dataset incorporates employee records across several dimensions:
   
 # Executive Summary
 
-Overview:
+Overview of Findings 2012-2022:
 
-- Attrition rates vary significantly across demographics.
-- Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
+- Attrition: High at 16.1%, especially for employees with <2 years.
+- Satisfaction: Declining across all metrics since 2014.
+- Diversity & Pay: Majority White employees, with pay disparities among ethnicities.
+- Hiring: Increasing annually, but attrition offsets gains.
+- Departments: Technology dominates workforce; other departments are smaller.
 - An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
 
 
