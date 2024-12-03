@@ -32,7 +32,7 @@ Overview of Findings 2012-2022:
 - Diversity & Pay: Majority White employees, with pay disparities among ethnicities.
 - Hiring: Increasing annually, but attrition offsets gains.
 - Departments: Technology dominates workforce; other departments are smaller.
-- An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
+An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
 
 
   ![HR DASHBOARD](https://github.com/user-attachments/assets/67d2bcfc-ea4e-47a3-8c97-46c41ca8515e)
