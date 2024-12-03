@@ -1,4 +1,4 @@
-# HR-Analytics---InnovExon
+# HR Analytics Dashboard | InnovExon
 
 HR Analytics Dashboard | InnovExon
 Project Background
