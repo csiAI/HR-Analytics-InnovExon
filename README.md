@@ -30,7 +30,9 @@ Overview:
 - Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
 - An interactive PowerBI dashboard can be found 
 
-  [here]![HR DASHBOARD](https://github.com/user-attachments/assets/67d2bcfc-ea4e-47a3-8c97-46c41ca8515e)
+
+
+  ![HR DASHBOARD](https://github.com/user-attachments/assets/67d2bcfc-ea4e-47a3-8c97-46c41ca8515e)
 
 
 Attrition Trends:
