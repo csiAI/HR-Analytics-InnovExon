@@ -11,7 +11,7 @@ The key areas of focus include:
 - Employee Satisfaction: Monitoring satisfaction trends to identify potential retention risks.
 - An interactive Power BI dashboard can be found here. (Update with link if applicable)
 
-Dataset Overview & Initial Checks
+# Data Structure & Initial Checks
 The InnovExon dataset incorporates employee records across several dimensions:
 
 Time Period: Data spans from 2012 to 2022.
@@ -20,6 +20,7 @@ Performance Metrics: Attrition rates, employee satisfaction, and hiring trends a
 Geographic Locations: Employees are distributed across key states, such as California (CA), Illinois (IL), and New York (NY).
 Initial observations reveal:
 
+# Executive Summary
 Attrition rates vary significantly across demographics.
 Hiring trends fluctuate, with noticeable gaps in certain years for specific age and gender groups.
 Executive Summary
