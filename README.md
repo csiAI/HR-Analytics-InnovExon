@@ -28,9 +28,13 @@ The InnovExon dataset incorporates employee records across several dimensions:
 **Overview of Findings 2012-2022:**
 
 - Attrition: High at 16.1%, especially for employees with <2 years.
+  
 - Satisfaction: Declining across all metrics since 2014.
+  
 - Diversity & Pay: Majority White employees, with pay disparities among ethnicities.
+  
 - Hiring: Increasing annually, but attrition offsets gains.
+  
 - Departments: Technology dominates workforce.
   
 An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
