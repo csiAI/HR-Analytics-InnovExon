@@ -31,7 +31,7 @@ The InnovExon dataset incorporates employee records across several dimensions:
 - Satisfaction: Declining across all metrics since 2014.
 - Diversity & Pay: Majority White employees, with pay disparities among ethnicities.
 - Hiring: Increasing annually, but attrition offsets gains.
-- Departments: Technology dominates workforce; other departments are smaller.
+- Departments: Technology dominates workforce.
   
 An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
 
