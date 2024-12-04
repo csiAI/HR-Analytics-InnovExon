@@ -11,6 +11,7 @@ The key areas of focus include:
 - Employee Satisfaction: Monitoring satisfaction trends to identify potential retention risks.
 
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
+(blob:https://github.com/8eb34cd0-f611-4d4c-8493-f637b62a1e79)
 
 # Data Structure & Initial Checks
 The InnovExon dataset incorporates employee records across several dimensions:
