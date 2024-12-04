@@ -10,9 +10,7 @@ The key areas of focus include:
 - Departmental Performance: Evaluating workforce distribution across departments and locations.
 - Employee Satisfaction: Monitoring satisfaction trends to identify potential retention risks.
 
-An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR%20Project.pbix).
-
-(https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR_Analytics.pbix)
+An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR_Analytics.pbix).
 
 HR_Analytics.pbix
 
