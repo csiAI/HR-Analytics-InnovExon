@@ -12,7 +12,6 @@ The key areas of focus include:
 
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics---InnovExon/refs/heads/main/HR_Analytics.pbix).
 
-HR_Analytics.pbix
 
 # Data Structure & Initial Checks
 The InnovExon dataset incorporates employee records across several dimensions:
