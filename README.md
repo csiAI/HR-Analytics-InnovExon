@@ -1,4 +1,4 @@
-# HR Analytics Dashboard | InnovExon
+# HR Analytics | InnovExon
 
 # Project Background
 InnovExon is a leading IT consulting company specializing in cutting-edge solutions for clients worldwide. To remain competitive in a fast-evolving industry, the Human Resources (HR) department sought to analyze key workforce metrics, including employee trends, attrition, and satisfaction. The goal of this project is to leverage data insights to improve employee retention, foster diversity, and enhance workplace satisfaction.
