@@ -41,7 +41,8 @@ The InnovExon dataset incorporates employee records across several dimensions:
   
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics-InnovExon/refs/heads/main/HR%20Project.pbix).
 
-![HR DASHBOARD](https://github.com/user-attachments/assets/e1cf567b-53f2-42c1-b1eb-c396574d9bf4)
+![HR DASHBOARD](https://github.com/user-attachments/assets/3c702d16-4de2-4c52-9cfa-1057c4c4ae68)
+
 
 
 
