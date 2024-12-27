@@ -39,7 +39,7 @@ The InnovExon dataset incorporates employee records across several dimensions:
   
 - Departments: Technology dominates workforce.
   
-An interactive PowerBI dashboard can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics-InnovExon/refs/heads/main/HR%20Project.pbix).
+An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/HR-Analytics-InnovExon/refs/heads/main/HR%20Project.pbix).
 
 ![HR DASHBOARD](https://github.com/user-attachments/assets/e1cf567b-53f2-42c1-b1eb-c396574d9bf4)
 
