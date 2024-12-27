@@ -21,7 +21,8 @@ The InnovExon dataset incorporates employee records across several dimensions:
 - Performance Metrics: Attrition rates, employee satisfaction, and hiring trends are analyzed.
 - Geographic Locations: Employees are distributed across key states, such as California (CA), Illinois (IL), and New York (NY).
 
-  ![data model](https://github.com/user-attachments/assets/7c4a3bb7-92f1-445c-b872-521f22243440)
+![HR data model](https://github.com/user-attachments/assets/d8484a30-4a2b-4f01-ba0c-547c913013a1)
+
 
   
 # Executive Summary
